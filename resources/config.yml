@@ -1,0 +1,2 @@
+auto_optimize: true
+interval: 300 # Interval in seconds (default: 5 minutes)
