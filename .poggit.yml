@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vinayakkirtan00-sketch/QuickLagClear
+build-by-default: true
+branches:
+- main
+projects:
+  QuickLagClear:
+    path: ""
+    icon: "logo.png"
+    type: plugin
+    description: "Automatically clears dropped items, arrows, and other entities to reduce lag. Fully automatic and optimized for PM5 (PocketMine-MP 5.0.0)."
+    apis:
+      - 5.0.0
+...
