@@ -1,0 +1,9 @@
+name: QuickLagClear
+main: QuickLagClear\Main
+version: 1.0.0
+api: 5.0.0
+author: Kirtan
+description: Automatically optimizes server by clearing dropped items, arrows, and entities to reduce lag every 5 minutes.
+load: POSTWORLD
+commands: {}
+depend: []
