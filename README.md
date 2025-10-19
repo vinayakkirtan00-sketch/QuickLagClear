@@ -1,5 +1,7 @@
 # 🌩️ QuickLagClear
 
+[![](https://poggit.pmmp.io/shield.state/QuickLagClear)](https://poggit.pmmp.io/p/QuickLagClear)
+
 **QuickLagClear** is a lightweight and automatic lag optimization plugin for **PocketMine-MP (PM5)** — designed specifically for **Minecraft: Bedrock Edition v1.21.111** servers.
 
 It automatically clears dropped items, arrows, and other unnecessary entities at fixed intervals to keep your server running smoothly — with **zero lag spikes** and **no commands required**.
